@@ -1,0 +1,49 @@
+
+
+.T{
+    text-align: center;
+    font-size: 15px; 
+}
+
+.B{
+    display: inline-block;
+    height: 200px;
+    width: 600px;   
+}
+
+.C{
+    float: right;
+    width: 400px;
+    padding: 10px;
+    margin-left:10px ;
+}
+
+.D{
+ 
+ height: 900px;
+ height: 1200px;
+
+}
+
+.F1 li{
+    display: inline;
+    
+    border-radius: 5px ;
+    margin: 10px;
+    padding:10px ;
+    color:  white;
+    background-color: black;
+}
+
+.E{
+
+    display: inline-block;
+    width: 600px;
+    
+}
+
+.F{
+    
+    float: right;
+    width: 800px;
+}
